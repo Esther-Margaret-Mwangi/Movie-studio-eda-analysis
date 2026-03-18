@@ -1,0 +1,2 @@
+# Ignore im.db inside data folder its too big
+data/im.db
