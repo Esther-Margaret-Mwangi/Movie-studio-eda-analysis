@@ -16,29 +16,29 @@ A company plans to establish a new movie studio but lacks industry knowledge. Th
 * The best release periods to maximize revenue
 
 ### Objectives
-1. Return on Investment (ROI)
+##### 1. Return on Investment (ROI)
 
-Identify genres that generate the highest returns relative to production cost
+* Identify genres that generate the highest returns relative to production cost
 
-Evaluate the relationship between budget and revenue
+* Evaluate the relationship between budget and revenue
 
 2. Revenue by Genre
 
-Determine which genres generate the highest box office revenue
+* Determine which genres generate the highest box office revenue
 
-Analyze audience preferences using popularity and engagement metrics
+* Analyze audience preferences using popularity and engagement metrics
 
 3. Reviews and Ratings
 
-Assess how IMDb ratings influence financial success
+* Assess how IMDb ratings influence financial success
 
-Identify genres with strong audience approval
+* Identify genres with strong audience approval
 
 4. Seasonality
 
-Identify the best time of year to release films
+* Identify the best time of year to release films
 
-Analyze revenue trends across seasons
+* Analyze revenue trends across seasons
 
 ### Methodology
 
@@ -64,7 +64,7 @@ TheMovieDB: Popularity and engagement metrics
 
 The Numbers: Production budgets and worldwide gross
 
-## Data Preparation
+### Data Preparation
 
 Key steps included:
 
@@ -78,10 +78,10 @@ Key steps included:
 
 * Feature engineering (e.g., total revenue, ROI, season)
 
-## Key Analyses
+### Key Analyses
 1. Ratings vs Revenue
 
-Scatter plots used to evaluate correlation between ratings and revenue
+*Scatter plots used to evaluate correlation between ratings and revenue
 
 Finding: Higher ratings tend to support stronger revenue performance
 
