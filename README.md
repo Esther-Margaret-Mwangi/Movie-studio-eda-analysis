@@ -1,9 +1,9 @@
-Movie Studio EDA ANALYSIS
-Project Overview
+## Movie Studio EDA Analysis
+### Project Overview
 
 This project analyzes global film performance to guide the strategic launch of a new movie studio. The goal is to identify which types of films deliver the highest return on investment (ROI), revenue, and audience satisfaction, and to translate these insights into actionable business recommendations.
 
-Business Problem
+### Business Problem
 
 A company plans to establish a new movie studio but lacks industry knowledge. This project addresses that gap by analyzing historical film data to determine:
 
