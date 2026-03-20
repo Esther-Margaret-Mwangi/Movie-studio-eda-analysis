@@ -54,15 +54,15 @@ A company plans to establish a new movie studio but lacks industry knowledge. Th
 
 ### Datasets Used
 
-Box Office Mojo: Domestic and international revenue
+* Box Office Mojo: Domestic and international revenue
 
-IMDb: Ratings, genres, runtime, votes
+* IMDb: Ratings, genres, runtime, votes
 
-Rotten Tomatoes: Critic and audience scores
+* Rotten Tomatoes: Critic and audience scores
 
-TheMovieDB: Popularity and engagement metrics
+* TheMovieDB: Popularity and engagement metrics
 
-The Numbers: Production budgets and worldwide gross
+* The Numbers: Production budgets and worldwide gross
 
 ### Data Preparation
 
@@ -79,15 +79,15 @@ Key steps included:
 * Feature engineering (e.g., total revenue, ROI, season)
 
 ### Key Analyses
-1. Ratings vs Revenue
+##### 1. Ratings vs Revenue
 
-*Scatter plots used to evaluate correlation between ratings and revenue
+* Scatter plots used to evaluate correlation between ratings and revenue
 
 Finding: Higher ratings tend to support stronger revenue performance
 
-2. Top Genres by Revenue
+##### 2. Top Genres by Revenue
 
-Genres split and analyzed individually
+* Genres split and analyzed individually
 
 Finding:
 
@@ -98,21 +98,21 @@ Finding:
 * Adventure
 generate the highest average revenue
 
-3. Seasonality Analysis
+##### 3. Seasonality Analysis
 
-Movies grouped by release season
+* Movies grouped by release season
 
 Finding:
 
 Summer releases generate the highest average revenue
 
-4. ROI Analysis
+##### 4. ROI Analysis
 
 ROI calculated using:
 
 ROI = (worldwide_gross - production_budget) / production_budget
 
-## Finding & Recommendation:
+### Finding & Recommendation:
 
 Some lower-budget genres yield higher ROI
 
