@@ -16,25 +16,25 @@ A company plans to establish a new movie studio but lacks industry knowledge. Th
 * The best release periods to maximize revenue
 
 ### Objectives
-##### 1. Return on Investment (ROI)
+#### 1. Return on Investment (ROI)
 
 * Identify genres that generate the highest returns relative to production cost
 
 * Evaluate the relationship between budget and revenue
 
-##### 2. Revenue by Genre
+#### 2. Revenue by Genre
 
 * Determine which genres generate the highest box office revenue
 
 * Analyze audience preferences using popularity and engagement metrics
 
-##### 3. Reviews and Ratings
+#### 3. Reviews and Ratings
 
 * Assess how IMDb ratings influence financial success
 
 * Identify genres with strong audience approval
 
-##### 4. Seasonality
+#### 4. Seasonality
 
 * Identify the best time of year to release films
 
@@ -83,14 +83,14 @@ Key steps included:
 
 * Scatter plots used to evaluate correlation between ratings and revenue
 
-##### Finding
+##### Finding:
 * Higher ratings tend to support stronger revenue performance
 
-##### 2. Top Genres by Revenue
+#### 2. Top Genres by Revenue
 
 * Genres split and analyzed individually
 
-Finding:
+##### Finding:
 
 * Animation
 
@@ -99,25 +99,25 @@ Finding:
 * Adventure
 generate the highest average revenue
 
-##### 3. Seasonality Analysis
+#### 3. Seasonality Analysis
 
 * Movies grouped by release season
 
-Finding:
+##### Finding:
 
 Summer releases generate the highest average revenue
 
-##### 4. ROI Analysis
+#### 4. ROI Analysis
 
-ROI calculated using:
+##### ROI calculated using:
 
-ROI = (worldwide_gross - production_budget) / production_budget
+* ROI = (worldwide_gross - production_budget) / production_budget
 
 ### Finding & Recommendation:
 
-Some lower-budget genres yield higher ROI
+* Some lower-budget genres yield higher ROI
 
-High budget ≠ high profitability
+* High budget ≠ high profitability
 
 ## Genre Ranking Model
 
