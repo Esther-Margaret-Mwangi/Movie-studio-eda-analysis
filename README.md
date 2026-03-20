@@ -79,11 +79,12 @@ Key steps included:
 * Feature engineering (e.g., total revenue, ROI, season)
 
 ### Key Analyses
-##### 1. Ratings vs Revenue
+#### 1. Ratings vs Revenue
 
 * Scatter plots used to evaluate correlation between ratings and revenue
 
-Finding: Higher ratings tend to support stronger revenue performance
+##### Finding
+* Higher ratings tend to support stronger revenue performance
 
 ##### 2. Top Genres by Revenue
 
