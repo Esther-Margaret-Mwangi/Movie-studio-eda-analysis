@@ -40,19 +40,19 @@ Identify the best time of year to release films
 
 Analyze revenue trends across seasons
 
-## Methodology
+### Methodology
 
-Data Integration: Combined datasets from multiple sources
+* Data Integration: Combined datasets from multiple sources
 
-Data Cleaning: Standardized formats, handled missing values, merged datasets
+* Data Cleaning: Standardized formats, handled missing values, merged datasets
 
-Exploratory Analysis: Examined relationships between variables
+* Exploratory Analysis: Examined relationships between variables
 
-Comparative Analysis: Evaluated performance across genres, budgets, and ratings
+* Comparative Analysis: Evaluated performance across genres, budgets, and ratings
 
-Scoring Model: Ranked genres based on ROI, revenue, and ratings
+* Scoring Model: Ranked genres based on ROI, revenue, and ratings
 
-## Datasets Used
+### Datasets Used
 
 Box Office Mojo: Domestic and international revenue
 
