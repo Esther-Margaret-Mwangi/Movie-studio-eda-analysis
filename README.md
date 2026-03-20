@@ -22,19 +22,19 @@ A company plans to establish a new movie studio but lacks industry knowledge. Th
 
 * Evaluate the relationship between budget and revenue
 
-2. Revenue by Genre
+##### 2. Revenue by Genre
 
 * Determine which genres generate the highest box office revenue
 
 * Analyze audience preferences using popularity and engagement metrics
 
-3. Reviews and Ratings
+##### 3. Reviews and Ratings
 
 * Assess how IMDb ratings influence financial success
 
 * Identify genres with strong audience approval
 
-4. Seasonality
+##### 4. Seasonality
 
 * Identify the best time of year to release films
 
