@@ -54,15 +54,15 @@ A company plans to establish a new movie studio but lacks industry knowledge. Th
 
 ### Datasets Used
 
-* Box Office Mojo: Domestic and international revenue
+* Box Office Mojo: Domestic and international revenue (https://www.boxofficemojo.com/)
 
-* IMDb: Ratings, genres, runtime, votes
+* IMDb: Ratings, genres, runtime, votes (https://www.imdb.com/)
 
-* Rotten Tomatoes: Critic and audience scores
+* Rotten Tomatoes: Critic and audience scores (https://www.rottentomatoes.com/)
 
-* TheMovieDB: Popularity and engagement metrics
+* TheMovieDB: Popularity and engagement metrics (https://www.themoviedb.org/)
 
-* The Numbers: Production budgets and worldwide gross
+* The Numbers: Production budgets and worldwide gross (https://www.the-numbers.com/)
 
 ### Data Preparation
 
