@@ -119,7 +119,7 @@ Summer releases generate the highest average revenue
 
 * High budget ≠ high profitability
 
-## Genre Ranking Model
+### Genre Ranking Model
 
 A scoring function was developed to rank genres based on:
 
